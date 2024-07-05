@@ -25,8 +25,11 @@ main:
   - name: Awards
     url: "#awards"
     weight: 60
-  - name: Attended
-    url: "#attended"
+  - name: CAOSCI Lab
+    url: "#CAOSCI Lab"
+    weight: 70
+  - name: Group members
+    url: "#Group members"
     weight: 70
   - name: Contact
     url: "#contact"

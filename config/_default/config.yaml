@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Irene Cannistraci # Website name
-baseURL: "https://irene.cannistraci.dev/" # Website URL
+title: Rider Jiames # Website name
+baseURL: "https://rider.jaimes.dev/" # Website URL
 
 ############################
 ## LANGUAGE
